@@ -1,0 +1,11 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est E414-6BB7
+
+ R‚pertoire de C:\Users\KHALILOULAH\Desktop\cool
+
+20/10/2018  03:01    <DIR>          .
+20/10/2018  03:01    <DIR>          ..
+20/10/2018  03:01                 0 set.txt
+20/10/2018  02:15                12 test.txt
+               2 fichier(s)               12 octets
+               2 R‚p(s)  26ÿ797ÿ998ÿ080 octets libres
